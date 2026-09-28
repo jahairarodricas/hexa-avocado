@@ -1,0 +1,769 @@
+{
+  "blocks": [
+    {
+      "type": "image",
+      "number": 1,
+      "file": "assets/images/image-01.png",
+      "caption": "Imagen 1",
+      "after": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "UNIVERSIDAD ESAN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Carrera de Ingeniería Industrial y Comercial"
+    },
+    {
+      "type": "paragraph",
+      "text": "Procesos de fabricación digital — 2026-2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hexa avocado"
+    },
+    {
+      "type": "paragraph",
+      "text": "Docente: Ciro Mejía"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Integrantes"
+        ],
+        [
+          "Chambergo Saavedra, Alanis Chris"
+        ],
+        [
+          "Cubas Guevara, Aaron Aldeir"
+        ],
+        [
+          "Rodriguez Bejarano, Liam Denis"
+        ],
+        [
+          "Rodriguez Castañeda, Jahaira"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "LINK 1: (Alanis)"
+    },
+    {
+      "type": "paragraph",
+      "text": "LINK 2: (Jaha)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.1. Contexto y motivación del proyecto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Actualmente existe una creciente preocupación por el uso de envases plásticos de un solo uso y su impacto ambiental. En respuesta a esta problemática, las empresas buscan soluciones sostenibles que permitan proteger los alimentos durante su transporte y exhibición sin generar residuos contaminantes."
+    },
+    {
+      "type": "paragraph",
+      "text": "El presente proyecto consiste en el diseño y fabricación de un envase ecológico fabricado en MDF 3 mm destinado al transporte, almacenamiento y comercialización de paltas. El producto ofrece protección física al fruto, facilita la manipulación por parte del consumidor y mejora la presentación comercial en supermercados y tiendas."
+    },
+    {
+      "type": "paragraph",
+      "text": "1.2. Alcance y limitaciones del prototipo"
+    },
+    {
+      "type": "paragraph",
+      "text": "El proyecto comprende el diseño CAD, la generación de planos de fabricación, el corte de las piezas mediante la máquina Trotec Speedy 400, el ensamblaje del envase y la validación de su funcionalidad para el transporte y exhibición de paltas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al tratarse de un proyecto académico, la fabricación se limita a la elaboración de un prototipo funcional, sin considerar procesos industriales de producción en masa ni estudios de comercialización."
+    },
+    {
+      "type": "paragraph",
+      "text": "Objetivos"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.1. Objetivo general"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diseñar y fabricar un envase ecológico para paltas utilizando MDF 3 mm, garantizando resistencia estructural, facilidad de transporte para su comercialización."
+    },
+    {
+      "type": "paragraph",
+      "text": "2.2. Objetivos específicos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diseñar el envase mediante software CAD considerando criterios ergonómicos y de manufacturabilidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fabricar las piezas en MDF de 3 mm optimizando el material usando la máquina Trotec Speedy 400."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ensamblar el prototipo utilizando uniones a presión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Validar la capacidad de almacenamiento y transporte de las paltas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Concepto de diseño"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.1. Nombre y descripción del mueble"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hexa avocado es un envase ecológico para paltas fabricado en MDF 3mm. Su diseño combina funcionalidad, sostenibilidad y atractivo visual, permitiendo almacenar y transportar varias paltas de forma segura mientras mejora su presentación en puntos de venta."
+    },
+    {
+      "type": "paragraph",
+      "text": "3.2. Valor agregado"
+    },
+    {
+      "type": "paragraph",
+      "text": "Está compuesto por los siguientes elementos:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diseño ecológico elaborado con material reciclable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compartimentos internos que evitan golpes entre las paltas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sistema de cierre seguro para transporte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fácil almacenamiento y apilamiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Presentación visual atractiva para supermercados y tiendas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Posibilidad de personalización con marca y etiquetas comerciales."
+    },
+    {
+      "type": "paragraph",
+      "text": "3.3. Público objetivo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hexa avocado está dirigido a supermercados, tiendas de alimentos, mercado especializados, productores, distribuidores de paltas y consumidores que valoran la sostenibilidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "3.5 Uso funcional"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diseñado para adaptarse a las necesidades del consumidor final, Hex avocado cuenta con múltiples funcionalidades:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Envase de palta: Sirve para transportar y almacenar paltas de manera segura con diseño reutilizable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exhibición comercial atractiva: De atractiva exhibición en diversos puntos de ventas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Facilitación de manipulación: El consumidor final puede manipular con facilidad el envase siendo más atractivo para su uso diario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Presentación premium: Mejora la percepción de calidad del producto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Personalización: Posibilidad de personalización mediante grabado láser de logotipos y diseños."
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Fundamento teórico"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1. Fabricación aplicada a envases"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fabricación digital permite desarrollar prototipos de envases con alta precisión dimensional, reduciendo tiempos de producción y desperdicio de material."
+    },
+    {
+      "type": "paragraph",
+      "text": "El uso de software CAD y corte láser facilitan la creación de prototipos funcionales con acabados de gran calidad estética."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 1- Flujograma de proceso de fabricación"
+    },
+    {
+      "type": "image",
+      "number": 2,
+      "file": "assets/images/image-02.png",
+      "caption": "Imagen 1- Flujograma de proceso de fabricación",
+      "after": "El uso de software CAD y corte láser facilitan la creación de prototipos funcionales con acabados de gran calidad estética."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.2. Tecnología utilizada: Ruteado CNC"
+    },
+    {
+      "type": "paragraph",
+      "text": "El proceso de fabricación del envase Hexa avocado se realizó utilizando la máquina de corte láser Trotec Speedy 400, equipo ampliamente utilizado para la manufactura digital de piezas en materiales como MDF, acrílico, cartón y madera delgada."
+    },
+    {
+      "type": "paragraph",
+      "text": "El corte láser consiste en dirigir un haz de luz altamente concentrado sobre la superficie del material, produciendo su vaporización o fusión localizada. Este proceso permite obtener cortes limpios, precisos y repetitivos, además de realizar grabados superficiales sin necesidad de herramientas mecánicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre sus principales ventajas destacan:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alta precisión dimensional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Excelente calidad de acabado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rapidez de fabricación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reducción del desperdicio de material."
+    },
+    {
+      "type": "paragraph",
+      "text": "Posibilidad de corte y grabado en una misma operación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para la fabricación del Hexa Avocado se empleó una cortadora láser tipo Trotec Speedy 400 del Fablab ESAN."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 2- Proceso de Corte Láser | Trotec 400 en el Fablab ESAN"
+    },
+    {
+      "type": "image",
+      "number": 3,
+      "file": "assets/images/image-03.png",
+      "caption": "Imagen 2- Proceso de Corte Láser | Trotec 400 en el Fablab ESAN",
+      "after": "Para la fabricación del Hexa Avocado se empleó una cortadora láser tipo Trotec Speedy 400 del Fablab ESAN."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.3. Material base: MDF (3 mm)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para la fabricación del prototipo se utilizó MDF de 3 mm de espesor. Este material se caracteriza por su homogeneidad, estabilidad dimensional y facilidad de mecanizado mediante corte láser. Las ventajas de utilizar MDF de 3 mm para este proyecto son:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Facilidad de corte mediante láser."
+    },
+    {
+      "type": "paragraph",
+      "text": "Buena rigidez estructural para prototipos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bajo peso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Excelente acabado superficial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Facilidad para grabados decorativos y personalizados."
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Diseño de ingeniería"
+    },
+    {
+      "type": "paragraph",
+      "text": "5.1. Dimensiones generales del envase"
+    },
+    {
+      "type": "paragraph",
+      "text": "El diseño final contempla una estructura compacta destinada a almacenar y transportar paltas de manera segura."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dimensiones aproximadas:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Largo: 300 mm"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ancho: 120 mm"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alto: 120 mm"
+    },
+    {
+      "type": "paragraph",
+      "text": "Espesor del material: MDF de 3 mm"
+    },
+    {
+      "type": "paragraph",
+      "text": "Capacidad estimada: 6 paltas medianas."
+    },
+    {
+      "type": "paragraph",
+      "text": "5.2. Modelado en software CAD"
+    },
+    {
+      "type": "paragraph",
+      "text": "El diseño del envase fue desarrollado en Autodesk Inventor, donde se modelaron todas las piezas considerando el espesor del MDF de 3 mm y las tolerancias necesarias para el correcto ensamblaje posterior."
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, el software permitió generar las geometrías de encaje y los archivos vectoriales necesarios para la fabricación mediante corte láser."
+    },
+    {
+      "type": "paragraph",
+      "text": "5.3. Piezas del envase"
+    },
+    {
+      "type": "paragraph",
+      "text": "A continuación se presentarán las piezas diseñadas para la fabricación del envase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 3 - Pieza 1: Base para poner las paltas"
+    },
+    {
+      "type": "image",
+      "number": 4,
+      "file": "assets/images/image-04.png",
+      "caption": "Imagen 3 - Pieza 1: Base para poner las paltas",
+      "after": "A continuación se presentarán las piezas diseñadas para la fabricación del envase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 4 - Pieza 2"
+    },
+    {
+      "type": "image",
+      "number": 5,
+      "file": "assets/images/image-05.png",
+      "caption": "Imagen 4 - Pieza 2",
+      "after": "A continuación se presentarán las piezas diseñadas para la fabricación del envase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 5 - Pieza 3"
+    },
+    {
+      "type": "image",
+      "number": 6,
+      "file": "assets/images/image-06.png",
+      "caption": "Imagen 5 - Pieza 3",
+      "after": "A continuación se presentarán las piezas diseñadas para la fabricación del envase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 6 - Pieza 4"
+    },
+    {
+      "type": "image",
+      "number": 7,
+      "file": "assets/images/image-07.png",
+      "caption": "Imagen 6 - Pieza 4",
+      "after": "A continuación se presentarán las piezas diseñadas para la fabricación del envase."
+    },
+    {
+      "type": "image",
+      "number": 8,
+      "file": "assets/images/image-08.png",
+      "caption": "Imagen 8",
+      "after": "A continuación se presentarán las piezas diseñadas para la fabricación del envase."
+    },
+    {
+      "type": "paragraph",
+      "text": "5.4. Sistema de uniones y ensamblaje"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las piezas del envase fueron diseñadas con ranuras y pestañas que permiten su ensamblaje sin necesidad de tornillos ni elementos de fijación complejos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, la estructura incorpora un sistema de ensamble que facilita el montaje y desmontaje del prototipo, permitiendo además su reutilización."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 7 - Plano de ensamblaje"
+    },
+    {
+      "type": "image",
+      "number": 9,
+      "file": "assets/images/image-09.png",
+      "caption": "Imagen 7 - Plano de ensamblaje",
+      "after": "Además, la estructura incorpora un sistema de ensamble que facilita el montaje y desmontaje del prototipo, permitiendo además su reutilización."
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Proceso de fabricación"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Hexa avocado se desarrolló íntegramente en el Fablab de la Universidad ESAN, integrando el flujo digital. A continuación se documenta el proceso completo, desde el corte de las piezas hasta el mueble terminado."
+    },
+    {
+      "type": "paragraph",
+      "text": "6.2 Corte Láser"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez cargados los archivos en el software de control de la máquina, las piezas fueron cortadas sobre una plancha de MDF de 3 mm utilizando la Trotec Speedy 400. El proceso permitió obtener cortes limpios y precisos, minimizando la necesidad de retrabajos posteriores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 8 - Pieza 1 en DXF"
+    },
+    {
+      "type": "image",
+      "number": 10,
+      "file": "assets/images/image-10.png",
+      "caption": "Imagen 8 - Pieza 1 en DXF",
+      "after": "Una vez cargados los archivos en el software de control de la máquina, las piezas fueron cortadas sobre una plancha de MDF de 3 mm utilizando la Trotec Speedy 400. El proceso permitió obtener cortes limpios y precisos, minimizando la necesidad de retrabajos posteriores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 9 - Pieza 2 en DXF"
+    },
+    {
+      "type": "image",
+      "number": 11,
+      "file": "assets/images/image-11.png",
+      "caption": "Imagen 9 - Pieza 2 en DXF",
+      "after": "Una vez cargados los archivos en el software de control de la máquina, las piezas fueron cortadas sobre una plancha de MDF de 3 mm utilizando la Trotec Speedy 400. El proceso permitió obtener cortes limpios y precisos, minimizando la necesidad de retrabajos posteriores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 10 - Pieza 3 en DXF"
+    },
+    {
+      "type": "image",
+      "number": 12,
+      "file": "assets/images/image-12.png",
+      "caption": "Imagen 10 - Pieza 3 en DXF",
+      "after": "Una vez cargados los archivos en el software de control de la máquina, las piezas fueron cortadas sobre una plancha de MDF de 3 mm utilizando la Trotec Speedy 400. El proceso permitió obtener cortes limpios y precisos, minimizando la necesidad de retrabajos posteriores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 11 - Pieza 4 en DXF"
+    },
+    {
+      "type": "image",
+      "number": 13,
+      "file": "assets/images/image-13.png",
+      "caption": "Imagen 11 - Pieza 4 en DXF",
+      "after": "Una vez cargados los archivos en el software de control de la máquina, las piezas fueron cortadas sobre una plancha de MDF de 3 mm utilizando la Trotec Speedy 400. El proceso permitió obtener cortes limpios y precisos, minimizando la necesidad de retrabajos posteriores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 12 - Corte de las piezas"
+    },
+    {
+      "type": "image",
+      "number": 14,
+      "file": "assets/images/image-14.png",
+      "caption": "Imagen 12 - Corte de las piezas",
+      "after": "Una vez cargados los archivos en el software de control de la máquina, las piezas fueron cortadas sobre una plancha de MDF de 3 mm utilizando la Trotec Speedy 400. El proceso permitió obtener cortes limpios y precisos, minimizando la necesidad de retrabajos posteriores."
+    },
+    {
+      "type": "image",
+      "number": 15,
+      "file": "assets/images/image-15.png",
+      "caption": "Imagen 15",
+      "after": "Una vez cargados los archivos en el software de control de la máquina, las piezas fueron cortadas sobre una plancha de MDF de 3 mm utilizando la Trotec Speedy 400. El proceso permitió obtener cortes limpios y precisos, minimizando la necesidad de retrabajos posteriores."
+    },
+    {
+      "type": "paragraph",
+      "text": "6.2 Ensamblaje"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez finalizado el corte láser , las piezas se separaron del tablero, se removieron las rebabas con una lima fina para preparar las superficies de contacto para el ensamble a presión"
+    },
+    {
+      "type": "paragraph",
+      "text": "6.2.1. Armado de la estructura principal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se ensamblaron las piezas laterales, la base y los paneles extremos mediante el sistema de encaje diseñado previamente, colocando los elementos internos destinados a mantener las paltas separadas y protegidas durante el transporte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 13 - Armado y ensamblaje"
+    },
+    {
+      "type": "image",
+      "number": 16,
+      "file": "assets/images/image-16.png",
+      "caption": "Imagen 13 - Armado y ensamblaje",
+      "after": "Se ensamblaron las piezas laterales, la base y los paneles extremos mediante el sistema de encaje diseñado previamente, colocando los elementos internos destinados a mantener las paltas separadas y protegidas durante el transporte."
+    },
+    {
+      "type": "paragraph",
+      "text": "6.2.1. Montaje de la tapa y cierre"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finalmente se ensambló la tapa frontal, verificando el correcto funcionamiento del mecanismo de apertura y cierre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 14 - Montaje de la tapa de cierre"
+    },
+    {
+      "type": "image",
+      "number": 17,
+      "file": "assets/images/image-17.png",
+      "caption": "Imagen 14 - Montaje de la tapa de cierre",
+      "after": "Finalmente se ensambló la tapa frontal, verificando el correcto funcionamiento del mecanismo de apertura y cierre."
+    },
+    {
+      "type": "paragraph",
+      "text": "6.4. Envase final"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Hexa avocado fue concebido como un envase funcional y reutilizable para paltas, fabricado íntegramente en MDF de 3 mm y desarrollado mediante tecnología de corte láser. Su diseño está orientado a brindar protección durante el almacenamiento, transporte y exhibición del producto en supermercados, tiendas y puntos de venta. El envase integra en una sola estructura un sistema de contención seguro, compartimentos internos que reducen el movimiento de las paltas y un mecanismo de apertura frontal que facilita el acceso al producto por parte del consumidor."
+    },
+    {
+      "type": "paragraph",
+      "text": "El uso de la máquina Trotec Speedy 400 permitió obtener cortes de alta precisión y un excelente acabado superficial en todas las piezas, garantizando un ensamblaje exacto mediante uniones tipo encaje. Asimismo, la incorporación de grabados y elementos visuales en el diseño contribuye a mejorar la presentación comercial del producto, otorgándole una apariencia innovadora y diferenciada frente a los envases convencionales utilizados en el mercado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 15 - Envase final real"
+    },
+    {
+      "type": "image",
+      "number": 18,
+      "file": "assets/images/image-18.png",
+      "caption": "Imagen 15 - Envase final real",
+      "after": "El uso de la máquina Trotec Speedy 400 permitió obtener cortes de alta precisión y un excelente acabado superficial en todas las piezas, garantizando un ensamblaje exacto mediante uniones tipo encaje. Asimismo, la incorporación de grabados y elementos visuales en el diseño contribuye a mejorar la presentación comercial del producto, otorgándole una apariencia innovadora y diferenciada frente a los envases convencionales utilizados en el mercado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagen 16 - Envase final diseño"
+    },
+    {
+      "type": "image",
+      "number": 19,
+      "file": "assets/images/image-19.png",
+      "caption": "Imagen 16 - Envase final diseño",
+      "after": "El uso de la máquina Trotec Speedy 400 permitió obtener cortes de alta precisión y un excelente acabado superficial en todas las piezas, garantizando un ensamblaje exacto mediante uniones tipo encaje. Asimismo, la incorporación de grabados y elementos visuales en el diseño contribuye a mejorar la presentación comercial del producto, otorgándole una apariencia innovadora y diferenciada frente a los envases convencionales utilizados en el mercado."
+    },
+    {
+      "type": "paragraph",
+      "text": "7. Recomendaciones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Optimización del diseño: Para futuras versiones del envase, se recomienda realizar pruebas con diferentes geometrías internas que permitan una mejor distribución de las paltas y reduzcan el movimiento durante el transporte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mejora de la resistencia estructural: Aunque el MDF de 3 mm resultó adecuado para el prototipo, se recomienda evaluar espesores mayores o refuerzos internos para aplicaciones comerciales que requieran soportar mayores cargas o apilamiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ventilación del producto: Incorporar perforaciones o ranuras estratégicas que permitan una mejor circulación de aire alrededor de las paltas, favoreciendo su conservación durante el almacenamiento y exhibición."
+    },
+    {
+      "type": "paragraph",
+      "text": "Personalización mediante grabado láser: Aprovechar las capacidades de la máquina Trotec Speedy 400 para incorporar logotipos, información nutricional o elementos gráficos que fortalezcan la identidad de marca del producto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Optimización del aprovechamiento del material: Se recomienda mejorar la distribución de las piezas en las planchas de MDF mediante técnicas de nesting para reducir desperdicios y disminuir los costos de fabricación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Validación comercial: Realizar pruebas con usuarios, supermercados y tiendas para evaluar la aceptación del diseño, facilidad de manipulación y percepción de calidad del envase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sostenibilidad del producto: Evaluar el uso de materiales alternativos biodegradables o reciclados que mantengan las propiedades mecánicas del prototipo y refuercen su propuesta ambiental."
+    },
+    {
+      "type": "paragraph",
+      "text": "Escalabilidad de producción: Analizar los parámetros de fabricación de la Trotec Speedy 400 para optimizar tiempos de corte y facilitar una futura producción en lotes más grandes."
+    },
+    {
+      "type": "paragraph",
+      "text": "8. Conclusiones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se logró diseñar y fabricar exitosamente el envase Hexa avocado utilizando MDF de 3 mm y tecnología de corte láser."
+    },
+    {
+      "type": "paragraph",
+      "text": "El empleo de la máquina Trotec Speedy 400 permitió obtener piezas con alta precisión dimensional y excelente calidad de acabado."
+    },
+    {
+      "type": "paragraph",
+      "text": "El prototipo cumplió satisfactoriamente su función de proteger y presentar las paltas durante su almacenamiento y comercialización."
+    },
+    {
+      "type": "paragraph",
+      "text": "El uso de fabricación digital permitió reducir tiempos de elaboración y optimizar el aprovechamiento del material."
+    },
+    {
+      "type": "paragraph",
+      "text": "El proyecto demuestra la viabilidad de desarrollar empaques innovadores mediante procesos modernos de manufactura digital."
+    }
+  ],
+  "images": [
+    {
+      "number": 1,
+      "file": "assets/images/image-01.png",
+      "caption": "Imagen 1",
+      "after": ""
+    },
+    {
+      "number": 2,
+      "file": "assets/images/image-02.png",
+      "caption": "Imagen 1- Flujograma de proceso de fabricación",
+      "after": "El uso de software CAD y corte láser facilitan la creación de prototipos funcionales con acabados de gran calidad estética."
+    },
+    {
+      "number": 3,
+      "file": "assets/images/image-03.png",
+      "caption": "Imagen 2- Proceso de Corte Láser | Trotec 400 en el Fablab ESAN",
+      "after": "Para la fabricación del Hexa Avocado se empleó una cortadora láser tipo Trotec Speedy 400 del Fablab ESAN."
+    },
+    {
+      "number": 4,
+      "file": "assets/images/image-04.png",
+      "caption": "Imagen 3 - Pieza 1: Base para poner las paltas",
+      "after": "A continuación se presentarán las piezas diseñadas para la fabricación del envase."
+    },
+    {
+      "number": 5,
+      "file": "assets/images/image-05.png",
+      "caption": "Imagen 4 - Pieza 2",
+      "after": "A continuación se presentarán las piezas diseñadas para la fabricación del envase."
+    },
+    {
+      "number": 6,
+      "file": "assets/images/image-06.png",
+      "caption": "Imagen 5 - Pieza 3",
+      "after": "A continuación se presentarán las piezas diseñadas para la fabricación del envase."
+    },
+    {
+      "number": 7,
+      "file": "assets/images/image-07.png",
+      "caption": "Imagen 6 - Pieza 4",
+      "after": "A continuación se presentarán las piezas diseñadas para la fabricación del envase."
+    },
+    {
+      "number": 8,
+      "file": "assets/images/image-08.png",
+      "caption": "Imagen 8",
+      "after": "A continuación se presentarán las piezas diseñadas para la fabricación del envase."
+    },
+    {
+      "number": 9,
+      "file": "assets/images/image-09.png",
+      "caption": "Imagen 7 - Plano de ensamblaje",
+      "after": "Además, la estructura incorpora un sistema de ensamble que facilita el montaje y desmontaje del prototipo, permitiendo además su reutilización."
+    },
+    {
+      "number": 10,
+      "file": "assets/images/image-10.png",
+      "caption": "Imagen 8 - Pieza 1 en DXF",
+      "after": "Una vez cargados los archivos en el software de control de la máquina, las piezas fueron cortadas sobre una plancha de MDF de 3 mm utilizando la Trotec Speedy 400. El proceso permitió obtener cortes limpios y precisos, minimizando la necesidad de retrabajos posteriores."
+    },
+    {
+      "number": 11,
+      "file": "assets/images/image-11.png",
+      "caption": "Imagen 9 - Pieza 2 en DXF",
+      "after": "Una vez cargados los archivos en el software de control de la máquina, las piezas fueron cortadas sobre una plancha de MDF de 3 mm utilizando la Trotec Speedy 400. El proceso permitió obtener cortes limpios y precisos, minimizando la necesidad de retrabajos posteriores."
+    },
+    {
+      "number": 12,
+      "file": "assets/images/image-12.png",
+      "caption": "Imagen 10 - Pieza 3 en DXF",
+      "after": "Una vez cargados los archivos en el software de control de la máquina, las piezas fueron cortadas sobre una plancha de MDF de 3 mm utilizando la Trotec Speedy 400. El proceso permitió obtener cortes limpios y precisos, minimizando la necesidad de retrabajos posteriores."
+    },
+    {
+      "number": 13,
+      "file": "assets/images/image-13.png",
+      "caption": "Imagen 11 - Pieza 4 en DXF",
+      "after": "Una vez cargados los archivos en el software de control de la máquina, las piezas fueron cortadas sobre una plancha de MDF de 3 mm utilizando la Trotec Speedy 400. El proceso permitió obtener cortes limpios y precisos, minimizando la necesidad de retrabajos posteriores."
+    },
+    {
+      "number": 14,
+      "file": "assets/images/image-14.png",
+      "caption": "Imagen 12 - Corte de las piezas",
+      "after": "Una vez cargados los archivos en el software de control de la máquina, las piezas fueron cortadas sobre una plancha de MDF de 3 mm utilizando la Trotec Speedy 400. El proceso permitió obtener cortes limpios y precisos, minimizando la necesidad de retrabajos posteriores."
+    },
+    {
+      "number": 15,
+      "file": "assets/images/image-15.png",
+      "caption": "Imagen 15",
+      "after": "Una vez cargados los archivos en el software de control de la máquina, las piezas fueron cortadas sobre una plancha de MDF de 3 mm utilizando la Trotec Speedy 400. El proceso permitió obtener cortes limpios y precisos, minimizando la necesidad de retrabajos posteriores."
+    },
+    {
+      "number": 16,
+      "file": "assets/images/image-16.png",
+      "caption": "Imagen 13 - Armado y ensamblaje",
+      "after": "Se ensamblaron las piezas laterales, la base y los paneles extremos mediante el sistema de encaje diseñado previamente, colocando los elementos internos destinados a mantener las paltas separadas y protegidas durante el transporte."
+    },
+    {
+      "number": 17,
+      "file": "assets/images/image-17.png",
+      "caption": "Imagen 14 - Montaje de la tapa de cierre",
+      "after": "Finalmente se ensambló la tapa frontal, verificando el correcto funcionamiento del mecanismo de apertura y cierre."
+    },
+    {
+      "number": 18,
+      "file": "assets/images/image-18.png",
+      "caption": "Imagen 15 - Envase final real",
+      "after": "El uso de la máquina Trotec Speedy 400 permitió obtener cortes de alta precisión y un excelente acabado superficial en todas las piezas, garantizando un ensamblaje exacto mediante uniones tipo encaje. Asimismo, la incorporación de grabados y elementos visuales en el diseño contribuye a mejorar la presentación comercial del producto, otorgándole una apariencia innovadora y diferenciada frente a los envases convencionales utilizados en el mercado."
+    },
+    {
+      "number": 19,
+      "file": "assets/images/image-19.png",
+      "caption": "Imagen 16 - Envase final diseño",
+      "after": "El uso de la máquina Trotec Speedy 400 permitió obtener cortes de alta precisión y un excelente acabado superficial en todas las piezas, garantizando un ensamblaje exacto mediante uniones tipo encaje. Asimismo, la incorporación de grabados y elementos visuales en el diseño contribuye a mejorar la presentación comercial del producto, otorgándole una apariencia innovadora y diferenciada frente a los envases convencionales utilizados en el mercado."
+    }
+  ]
+}
