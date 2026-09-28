@@ -639,6 +639,13 @@ figcaption {
     aspect-ratio: 4 / 3;
 }
 
+.gallery-feature {
+    grid-column: 1 / -1;
+    justify-self: center;
+    max-width: calc((100% - 18px) / 2);
+    width: 100%;
+}
+
 .final-showcase {
     grid-template-columns: repeat(2, minmax(0, 1fr));
 }
@@ -859,6 +866,10 @@ footer a {
     .cover-brand {
         align-items: flex-start;
         flex-direction: column;
+    }
+
+    .gallery-feature {
+        max-width: 100%;
     }
 
     .hero-actions {
