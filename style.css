@@ -135,7 +135,7 @@ a {
 }
 
 .hero-media {
-    background: url("assets/images/hexa-pack-portada.png") center top / cover no-repeat;
+    background: url("assets/images/hexa-pack-portada.png") center 56% / cover no-repeat;
     inset: 0;
     position: absolute;
 }
