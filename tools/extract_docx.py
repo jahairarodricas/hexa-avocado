@@ -11,7 +11,7 @@ from docx import Document
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE = ROOT.parent / "Hexa avocado Informe Final.docx"
+SOURCE = ROOT.parent / "Hexa avocado Informe Final (3).docx"
 OUT = ROOT / "assets" / "images"
 DATA = ROOT / "content.json"
 MAP = ROOT / "image-map.md"
@@ -70,6 +70,8 @@ def image_ids_from_paragraph(paragraph) -> list[str]:
 
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
+    for old_image in OUT.glob("image-*"):
+        old_image.unlink()
     doc = Document(SOURCE)
 
     with zipfile.ZipFile(SOURCE) as zf:
