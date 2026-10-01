@@ -135,28 +135,9 @@ a {
 }
 
 .hero-media {
-    background: var(--navy-deep);
-    inset: 0;
-    overflow: hidden;
-    position: absolute;
-}
-
-.hero-media::before,
-.hero-media::after {
-    content: "";
-    inset: 0;
-    position: absolute;
-}
-
-.hero-media::before {
     background: url("assets/images/hexa-pack-portada.png") center / cover no-repeat;
-    filter: blur(12px);
-    opacity: 0.8;
-    transform: scale(1.04);
-}
-
-.hero-media::after {
-    background: url("assets/images/hexa-pack-portada.png") center / contain no-repeat;
+    inset: 0;
+    position: absolute;
 }
 
 .hero-overlay {
