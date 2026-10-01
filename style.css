@@ -128,14 +128,14 @@ a {
 .hero {
     align-items: center;
     display: flex;
-    min-height: calc(92vh - 72px);
+    min-height: calc(100vh - 72px);
     overflow: hidden;
-    padding: 120px 5% 80px;
+    padding: 72px 5%;
     position: relative;
 }
 
 .hero-media {
-    background: url("assets/images/hexa%20avocado%20portada.png") center / cover no-repeat;
+    background: url("assets/images/hexa-pack-portada.png") center top / cover no-repeat;
     inset: 0;
     position: absolute;
 }
@@ -848,7 +848,7 @@ footer a {
     }
 
     .hero {
-        min-height: 86vh;
+        min-height: calc(100vh - 72px);
         padding-left: 20px;
         padding-right: 20px;
     }
