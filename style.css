@@ -639,11 +639,20 @@ figcaption {
     aspect-ratio: 4 / 3;
 }
 
+.gallery .calibrated-piece {
+    object-fit: cover;
+    object-position: center;
+}
+
 .gallery-feature {
     grid-column: 1 / -1;
     justify-self: center;
     max-width: calc((100% - 18px) / 2);
     width: 100%;
+}
+
+.gallery-feature-center {
+    grid-column: 2;
 }
 
 .final-showcase {
@@ -870,6 +879,10 @@ footer a {
 
     .gallery-feature {
         max-width: 100%;
+    }
+
+    .gallery-feature-center {
+        grid-column: auto;
     }
 
     .hero-actions {
